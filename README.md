@@ -1,16 +1,21 @@
-# flutter_login_screen
+Flutter Login Screen
+This repository contains a simple login screen built using Flutter with Dart. The project includes the full source code and a background image for the login screen.
 
-A new Flutter project.
+Features:
+Stylish, modern UI with a blurred background effect
+Customizable email and password input fields
+"Remember me" functionality using a checkbox
+Fully responsive design
+Getting Started:
+Clone the repository.
+Open the project in your preferred IDE.
+Run flutter pub get to install dependencies.
+Use flutter run to start the app on your emulator or connected device.
+Assets:
+assets/backimg.jpg: Background image used in the login screen.
+Preview:
+(Include a screenshot or gif of the login screen here.)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Requirements:
+Flutter SDK
+Dart language support
